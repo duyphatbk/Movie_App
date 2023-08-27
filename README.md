@@ -1,2 +1,2 @@
-# Redux_Movie_App
+# Movie_App
 The Simple Project about practical using Redux-Toolkits
